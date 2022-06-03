@@ -1,0 +1,10 @@
+pip install numpy
+pip install pandas
+pip install pandas_datareader
+pip install matplotlib
+pip install seaborn
+pip install tensorflow
+pip install math
+pip install datetime
+pip install plotly
+pip install cufflinks
